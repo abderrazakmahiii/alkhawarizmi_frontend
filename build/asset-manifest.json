@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00192c47.chunk.css",
+    "main.js": "/static/js/main.e66f9150.chunk.js",
+    "main.js.map": "/static/js/main.e66f9150.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.91560102.js",
+    "runtime~main.js.map": "/static/js/runtime~main.91560102.js.map",
+    "static/js/2.32087278.chunk.js": "/static/js/2.32087278.chunk.js",
+    "static/js/2.32087278.chunk.js.map": "/static/js/2.32087278.chunk.js.map",
+    "static/js/3.1af95c37.chunk.js": "/static/js/3.1af95c37.chunk.js",
+    "static/js/3.1af95c37.chunk.js.map": "/static/js/3.1af95c37.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bd34bd0b66c6b5098eaebe645b972363.js": "/precache-manifest.bd34bd0b66c6b5098eaebe645b972363.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.00192c47.chunk.css.map": "/static/css/main.00192c47.chunk.css.map",
+    "static/media/alkhawarizmi.png": "/static/media/alkhawarizmi.ca5b2e1f.png",
+    "static/media/arch.png": "/static/media/arch.f73d4ab3.png",
+    "static/media/fc.png": "/static/media/fc.90e993e0.png",
+    "static/media/home.png": "/static/media/home.75d72363.png",
+    "static/media/imgcol.png": "/static/media/imgcol.721df2fa.png",
+    "static/media/lab.png": "/static/media/lab.e83c8713.png",
+    "static/media/logo.svg": "/static/media/logo.06e73328.svg",
+    "static/media/logo.png": "/static/media/logo.6dfc182c.png",
+    "static/media/maxwell.png": "/static/media/maxwell.3b252a1c.png",
+    "static/media/sc.png": "/static/media/sc.cc921676.png",
+    "static/media/table.png": "/static/media/table.9f556740.png"
+  }
+}
